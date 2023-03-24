@@ -7,3 +7,10 @@
     height: 600px;
     width: 500px;
 }
+.controls {
+    position: absolute;
+    z-index: 10;
+}
+.controls, select, option {
+    font-size: 25px;
+}
